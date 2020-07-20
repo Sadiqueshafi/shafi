@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "herohu"
+    }
+  },
+  "defaultProject": "herohu",
+  "cli": {
+    "analytics": "484c1aea-545a-4df0-863f-fccdb53c1fdd"
+  }
 }
