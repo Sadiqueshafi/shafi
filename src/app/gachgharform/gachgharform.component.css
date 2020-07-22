@@ -1,0 +1,20 @@
+.EmployDesign{
+  margin-bottom: 30px;
+  border-bottom: 1px solid black;
+  text-align: center;
+
+}
+.bloodgroup{
+  margin-bottom: 30px;
+  margin-top: 30px;
+  border-bottom: 1px solid black;
+  text-align: center;
+}
+
+mat-card{
+margin-top: 30px;
+}
+
+.space{
+  margin-top: 20px;
+}
